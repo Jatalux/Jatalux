@@ -2,7 +2,7 @@
 
 - 📍 I'm from France
 - 💼 I’m working on various projects for Discord bots during my free time. 
-- 📚 I'm currently learning JS for front-end 
+- 📚 I'm currently learning React, next for front-end 
 - 📮 Developper of [Team Vérif](https://discord.com/api/oauth2/authorize?client_id=1224433364799459500&permissions=-1&scope=bot) → My Discord bot for advertisement verification
 
 ## 🛠 Language and tool
